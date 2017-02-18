@@ -1,0 +1,40 @@
+{
+  "name": "livestreamer",
+  "title": "Livestreamer Launcher",
+  "id": "livestreamer@czxzyyyk.de",
+  "description": "Launches livestreamer via context menu.",
+  "dependencies": "livestreamer",
+  "author": "czxzyyyk",
+  "license": "MPL 2.0",
+  "version": "1.0",
+  "preferences": [{
+        "name": "extentions.czxzyyyk.livestreamer.quality",
+        "title": "Stream quality",
+        "description": "",
+        "type": "menulist",
+        "value": "best",
+        "options": [
+        {
+            "value": "worst",
+            "label": "worst"
+        },
+        {
+            "value": "low",
+            "label": "low"
+        },
+        {
+            "value": "medium",
+            "label": "medium"
+        },
+        {
+            "value": "high",
+            "label": "high"
+        },
+        {
+            "value": "best",
+            "label": "best"
+        }
+    ]
+    }]
+}
+

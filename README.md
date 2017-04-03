@@ -1,2 +1,3 @@
 # livestreamer-launcher
-a Firefox add-on
+
+https://addons.mozilla.org/de/firefox/addon/livestreamer-launcher/
